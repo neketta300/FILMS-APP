@@ -49,23 +49,27 @@
 
 • Страница авторизации: Экран для ввода данных пользователя (логин и пароль).
   
-  ![Страница авторизации](docs/mocaps/auth_screen.png)
+  ![Страница авторизации](mocaps/auth_screen.png)
 
 • Страница с фильмами.
   
-  ![Страница фильмов](docs/mocaps/films_list_sccreen.png)
+  ![Страница фильмов](mocaps/films_list_screen.png)
+
+• Страница с сериалами.
+  
+  ![Страница сериалов](mocaps/serial_list_screen.png)
 
 • Страница с описанием каждого фильма.
   
-  ![Страница описания фильма](docs/mocaps/film_info_screen.png)
+  ![Страница описания фильма](mocaps/film_info_screen.png)
 
 • Страница новостей: Новые фильмы/премьеры.
   
-  ![Страница с новыми фильмами](docs/mocaps/news_screen.png)
+  ![Страница с новыми фильмами](mocaps/news_screen.png)
 
 • Страница профиля.
   
-  ![Профиль](docs/mocaps/profile_screen.jpg)
+  ![Профиль](mocaps/profile_screen.png)
 
 Пример взаимодействия:
 
