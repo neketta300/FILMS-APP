@@ -57,11 +57,15 @@
 
 • Страница с описанием каждого фильма.
   
-  ![Страница профиля зала](docs/mocaps/film_info_screen.png)
+  ![Страница описания фильма](docs/mocaps/film_info_screen.png)
 
 • Страница новостей: Новые фильмы/премьеры.
   
-  ![Интерактивная карта](docs/mocaps/news_screen.jpg)
+  ![Страница с новыми фильмами](docs/mocaps/news_screen.png)
+
+• Страница профиля.
+  
+  ![Профиль](docs/mocaps/profile_screen.jpg)
 
 Пример взаимодействия:
 
