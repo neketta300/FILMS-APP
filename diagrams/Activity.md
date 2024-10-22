@@ -8,7 +8,7 @@
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт](diagrams/images/signInActivityDiagram.drawio.png)
+![Вход в аккаунт](diagrams/images/signInActivityDiagram.png)
 
 ### 2. Регистрация<a name="2"></a>
 
