@@ -8,12 +8,12 @@
 
 ### 1. Вход в аккаунт<a name="1"></a>
 
-![Вход в аккаунт](diagrams/images/signInActivityDiagram.png)
+![Вход в аккаунт](images/signInActivityDiagram.png)
 
 ### 2. Регистрация<a name="2"></a>
 
-![Изменение профиля](diagrams/images/signUpActivityDiagram.drawio.png)
+![Изменение профиля](images/signUpActivityDiagram.drawio.png)
   
 ### 3. Создание события<a name="3"></a>
 
-![Изменение темы приложения](diagrams/images/createIventActivityDiagram.drawio.png)
+![Изменение темы приложения](images/createIventActivityDiagram.drawio.png)
