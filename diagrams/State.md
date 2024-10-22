@@ -16,4 +16,4 @@
   
 ### 3. Просмотр фильма<a name="3"></a>
 
-![Создание события](diagrams/images/checkFilmState.drawio.png)
+![Создание события](diagrams/images/checkFilmState.png)
