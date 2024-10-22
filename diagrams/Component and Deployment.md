@@ -1,3 +1,3 @@
 # Диаграмма компонентов и развёртывания  
 
-![Диаграмма компонентов и развёртывания](diagrams/images/deploymentDiagram.drawio.png) 
+![Диаграмма компонентов и развёртывания](images/deploymentDiagram.drawio.png) 
